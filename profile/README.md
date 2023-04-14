@@ -22,6 +22,6 @@ We organize a variety of events throughout the year, including:
 
 ## Join Us
 
-If you are interested in coding and want to learn more, we would love to have you join us! Our club is open to all students at [INSERT NAME OF YOUR INSTITUTION HERE], regardless of their major or experience level.
+If you are interested in coding and want to learn more, we would love to have you join us! Our club is open to all students from the Department of Computer Science and Business Systems at Panimalar Engineering College.
 
 To get started, simply attend one of our events or reach out to one of our organizers. We look forward to coding with you!
