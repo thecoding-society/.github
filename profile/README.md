@@ -2,7 +2,7 @@
 
 The Coding Society is an official club of the Department of Computer Science and Business Systems at Panimalar Engineering College. We are dedicated to helping students develop their coding skills and gain practical experience in the field. 
 
-### Website: https://coding.psdc.xyz/
+### Find events at : https://eventopia.in/
 
 ## Our Events
 
